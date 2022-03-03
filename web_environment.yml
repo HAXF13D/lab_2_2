@@ -10,5 +10,4 @@ dependencies:
     - requests
     - pymongo
     - dnspython
-    - selenium    
-prefix: F:\conda\envs\web_dev
+    - selenium
