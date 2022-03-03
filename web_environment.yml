@@ -1,0 +1,14 @@
+name: web_dev
+channels:
+  - defaults
+dependencies:
+    - python=3.8
+    - Flask=2.0.2
+    - beautifulsoup4
+    - lxml
+    - html5lib
+    - requests
+    - pymongo
+    - dnspython
+    - selenium    
+prefix: F:\conda\envs\web_dev
